@@ -3,8 +3,7 @@
 #include <stdio.h>
 /**
 *main-entry point
-*Return: wether the number is, 
-positive, negative or zero
+*Return: wether the number is, positive, negative or zero
 */
 int main(void)
 {
