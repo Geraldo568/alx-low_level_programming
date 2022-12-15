@@ -1,5 +1,9 @@
 #include <stdio.h>  
-#include <stdlib.h>  
+
+/**
+*main-entry point
+*Return:  _putchar
+*/
 int main(void)
 {
 putchar('_');
@@ -11,5 +15,5 @@ putchar('h');
 putchar('a');
 putchar('r');
 putchar('\n');
-return 0;
+return (0);
 }
